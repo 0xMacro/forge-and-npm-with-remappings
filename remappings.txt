@@ -3,3 +3,4 @@ forge-std/=lib/forge-std/src/
 
 #/=src/
 ~=src/inner
+@forge/=lib/forge-std/src/
